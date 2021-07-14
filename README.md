@@ -36,7 +36,7 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 [Discord](https://discord.com/) durante a tarde ou noite com reuniões rápidas e objetivas;
 
-
+![discord2 (2)](https://user-images.githubusercontent.com/71906862/125695260-55b43312-1fd7-4400-bbe5-3805ca05ac95.png)
 <br>
 
 [Trello](https://trello.com/home) para distribuição e acompanhamento das tarefas;
