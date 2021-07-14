@@ -29,6 +29,10 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 ## 🛠️ Ferramentas utilizadas para comunicação e desenvolvimento 🛠️
 
+[Maquina Virtual Azure](https://azure.microsoft.com/pt-br/services/virtual-machines/) para desenvolvimento.
+
+![azure](https://user-images.githubusercontent.com/71906862/125695946-bea82b0d-1b08-49db-a1a2-1445f5814d34.png)
+
 [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) durante as aulas, tirando dúvidas com os professores:
 
 ![teams](https://user-images.githubusercontent.com/71906862/125692115-6acfbedd-7bf0-4dde-b785-e8e7d49d8af0.png)
