@@ -31,9 +31,7 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 <h2 align="center"> 🛠️ Ferramentas utilizadas para comunicação e desenvolvimento 🛠️</h2>
 
 <p align="center">
-  <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in" target="blank">
     <img src="https://user-images.githubusercontent.com/71888055/125680629-56f952c0-13e7-45ab-9340-68be60ee4cb8.PNG" width="600px" height="400px" />
-  </a>
   <br>
   <br>
 
