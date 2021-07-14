@@ -4,11 +4,8 @@
 
 Nosso projeto se baseia em uma página web que, através das funcionalidades do `` CRUD `` se torna um inventário dinâmico onde se pode exibir, editar e excluir as informações do seu banco de dados.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/71888055/125679510-35de2013-bca9-4538-a66d-27b00892f0b7.jpeg" width="600px" height="400px" />
-</p>
+![kisspng-online-marketplace-e-commerce-online-shopping-serv-marketplace-png-photos-5a75c4700e8d18 2020289815176674400596](https://user-images.githubusercontent.com/71906862/125691754-bc82f289-4e44-4aef-9853-14767d5bbe05.png)
 
-##
 
 ### O que é CRUD? 🤔
 
@@ -34,13 +31,13 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) durante as aulas, tirando dúvidas com os professores:
 
-<img src="https://user-images.githubusercontent.com/71888055/125680629-56f952c0-13e7-45ab-9340-68be60ee4cb8.PNG" width="600px" height="400px" />
+![teams](https://user-images.githubusercontent.com/71906862/125692115-6acfbedd-7bf0-4dde-b785-e8e7d49d8af0.png)
 <br>
 <br>
 
 [Discord](https://discord.com/) durante a tarde ou noite com reuniões rápidas e objetivas;
 
-<img src="https://user-images.githubusercontent.com/71888055/125680625-c439dc27-8f5f-46d4-99ae-b06a58f2f30e.PNG" width="600px" height="400px" />
+
 <br>
 <br>
 
@@ -56,9 +53,12 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 ##
 
-#### Link do projeto 🔗
+#### Projeto concluido 🔗
+
+![sacolão](https://user-images.githubusercontent.com/71906862/125691724-6a87640a-fe10-423d-ad2e-03fb6773a0ad.png)
 
 [Sacolão do Senai](http://haile1.eastus2.cloudapp.azure.com/sacol%C3%A3o.html)
+
 
 #### Integrantes do grupo 🔗
 
