@@ -8,6 +8,8 @@ Nosso projeto se baseia em uma página web que, através das funcionalidades do 
   <img src="https://user-images.githubusercontent.com/71888055/125679510-35de2013-bca9-4538-a66d-27b00892f0b7.jpeg" width="600px" height="400px" />
 </p>
 
+##
+
 ### O que é CRUD? 🤔
 
 CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
@@ -28,23 +30,31 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 [Saiba mais](https://angelopublio.com.br/blog/crud).
 
-<h2 align="center"> 🛠️ Ferramentas utilizadas para comunicação e desenvolvimento 🛠️</h2>
+## 🛠️ Ferramentas utilizadas para comunicação e desenvolvimento 🛠️
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/71888055/125680629-56f952c0-13e7-45ab-9340-68be60ee4cb8.PNG" width="600px" height="400px" />
-  <br>
-  <br>
+[Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) durante as aulas, tirando dúvidas com os professores:
 
-  <img src="https://user-images.githubusercontent.com/71888055/125680625-c439dc27-8f5f-46d4-99ae-b06a58f2f30e.PNG" width="600px" height="400px" />
-  <br>
-  <br>
+<img src="https://user-images.githubusercontent.com/71888055/125680629-56f952c0-13e7-45ab-9340-68be60ee4cb8.PNG" width="600px" height="400px" />
+<br>
+<br>
 
-  <img src="https://user-images.githubusercontent.com/71888055/125680354-d092e62f-8f4d-48cb-ada0-a075e6649db3.PNG" width="600px" height="400px" />
-  <br>
-  <br>
+[Discord](https://discord.com/) durante a tarde ou noite com reuniões rápidas e objetivas;
 
-  <img src="https://user-images.githubusercontent.com/71888055/125680943-83e7f493-58dc-42c4-a773-2074ba414384.jpg"  width="600px" height="400px" />
-</p>
+<img src="https://user-images.githubusercontent.com/71888055/125680625-c439dc27-8f5f-46d4-99ae-b06a58f2f30e.PNG" width="600px" height="400px" />
+<br>
+<br>
+
+[Trello](https://trello.com/home) para distribuição e acompanhamento das tarefas;
+
+<img src="https://user-images.githubusercontent.com/71888055/125680354-d092e62f-8f4d-48cb-ada0-a075e6649db3.PNG" width="600px" height="400px" />
+<br>
+<br>
+
+[Wireframe](https://rockcontent.com/br/blog/wireframes/) feito no [Draw.io](https://app.diagrams.net/);
+
+<img src="https://user-images.githubusercontent.com/71888055/125680943-83e7f493-58dc-42c4-a773-2074ba414384.jpg"  width="600px" height="400px" />
+
+##
 
 #### Link do projeto 🔗
 
