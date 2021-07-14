@@ -33,23 +33,21 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 ![teams](https://user-images.githubusercontent.com/71906862/125692115-6acfbedd-7bf0-4dde-b785-e8e7d49d8af0.png)
 <br>
-<br>
 
 [Discord](https://discord.com/) durante a tarde ou noite com reuniões rápidas e objetivas;
 
 
 <br>
-<br>
 
 [Trello](https://trello.com/home) para distribuição e acompanhamento das tarefas;
 
-<img src="https://user-images.githubusercontent.com/71888055/125680354-d092e62f-8f4d-48cb-ada0-a075e6649db3.PNG" width="600px" height="400px" />
+![trello PNG](https://user-images.githubusercontent.com/71906862/125693837-3656a7a4-a70c-48ea-9a83-47bae0c352a9.png)
 <br>
 <br>
 
 [Wireframe](https://rockcontent.com/br/blog/wireframes/) feito no [Draw.io](https://app.diagrams.net/);
 
-<img src="https://user-images.githubusercontent.com/71888055/125680943-83e7f493-58dc-42c4-a773-2074ba414384.jpg"  width="600px" height="400px" />
+
 
 ##
 
